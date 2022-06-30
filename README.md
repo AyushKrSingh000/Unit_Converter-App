@@ -1,16 +1,7 @@
-# demo_2
+# Unit_Converter App
 
-A new Flutter project.
+A new Flutter project Created By
+## Ayush Kumar Singh
+Unit Converter is an app that lets you do exactly what its name suggests: convert all kinds of units, regardless of what you’re trying to measure. You can convert measurement units of length, weight, temperature, time, and area.
+You can convert from length to length , mass to mass ,any temperature to temperature,etc.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
